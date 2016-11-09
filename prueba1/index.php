@@ -7,8 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>  Prueba 1 </title>//modifico mattivi
-        //  modificacio 21232131d correguid desde el movil
+        <title>  Prueba 1 </title>//modifico maximus
+        //  modificado desde el móvil 6
         
        
     </head>
